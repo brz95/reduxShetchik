@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    color: orange;
+}
+.app{
+    width: 800px;
+    margin: auto;
+}
+.numbers{
+    display: flex;
+    justify-content: space-between;
+}
+.number{
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    font-size: 320px;
+}
+.plus{
+    width: 180px;
+}
+.plus img{
+    width: 180px;
+}
+.minus{
+    width: 180px;
+}
+.minus img{
+    width: 180px;
+}
+.reset{
+    width: 180px;
+}
+.reset img{
+    width: 180px;
+}
+.random{
+    width: 180px;
+}
+.random img{
+    width: 180px;
+}
